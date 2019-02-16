@@ -1,6 +1,6 @@
 var bodyParser = require('body-parser'),
     http = require('http'),
-    express = require('express')
+    express = require('express'),
 
     chat = require('./Chat')
 
